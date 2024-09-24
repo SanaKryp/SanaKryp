@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I've been a non-professional developer for less th
 Here are some technologies I work with:
 
 - **Languages**:  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+  ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 - **Databases**:  
