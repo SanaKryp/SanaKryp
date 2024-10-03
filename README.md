@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [SanaKryp]!
+# 👋 Hello, I'm [SanaKryp](https://github.com/SanaKryp)!
 
 Welcome to my GitHub profile! I've been a non-professional developer for less than a year, but I'm working hard to keep progressing.
 
