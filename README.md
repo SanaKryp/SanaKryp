@@ -18,6 +18,7 @@ Here are some technologies I work with:
 - **Languages**:  
   ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 - **Databases**:  
   ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
